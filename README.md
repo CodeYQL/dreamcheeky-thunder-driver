@@ -1,9 +1,9 @@
-# dreamcheeky-thunder-driver
+# dreamcheeky-thunder-lib
 
 A node driver for the dreamcheeky thunder missile launcher
 
 ## install
-``` npm install dreamcheeky-thunder-driver ```
+``` npm install dreamcheeky-thunder-lib ```
 
 ## API
 
