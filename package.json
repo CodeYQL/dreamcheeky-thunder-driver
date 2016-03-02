@@ -1,0 +1,14 @@
+{
+  "name": "dreamcheeky-thunder-lib",
+  "version": "0.1.0",
+  "description": "A node module for control a dreamcheeky thunder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Clément Garnier <cle.garnier@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "usb": "^1.1.1"
+  }
+}
